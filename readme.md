@@ -1,18 +1,19 @@
 Hi 👋 My name is Aingeru Sánchez
 =================================
 
-Frontend Web Developer
-----------------------
+I'm Software Engineer working as Frontend Web Developer with more than 5 years of experience specialized in Angular and Ionic Frameworks for both,
+web and hybrid mobile applications.
 
-* 🌍  I`m based in Bilbao, :es:
-* ✉️  You can contact me at [aingeru.sanchez72@gmail.com](mailto:aingeru.sanchez72@gmail.com) <!-- * 🚀  I'm currently working on [Company](https://company-url/) -->
-* ⚡  My expertise is in Angular & Ionic.
-* ❤️ I love Javascript & TypeScript 🥰
+<!-- * 👩‍💻  I'm currently working on [Company](https://company-url/) -->
+* 🌍  I`m based in Bilbao, :es:
+* ✉️  You can contact me at [aingeru.sanchez72@gmail.com](mailto:aingeru.sanchez72@gmail.com)
+* ⬆️  My expertise is in Angular & Ionic for web and hybrid mobile applications.
+* ❤️  I love Javascript & TypeScript libraries and frameworks 🥰
 
 <a href="https://www.github.com/aingerusanchez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aingerusanchez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### ⚡ Skills
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -26,7 +27,9 @@ src="https://img.shields.io/github/followers/aingerusanchez?logo=github&style=fo
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-### Socials
+<!-- ### 🧰 Projects --> 
+
+### 🔗 Socials
 
 <p align="left"> 
 <!--   <a href="https://www.github.com/aingerusanchez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  -->
